@@ -1,2 +1,7 @@
-flask
-langchain
+Flask
+openai
+langchain-community
+faiss-cpu
+sentence-transformers
+torch
+transformers
